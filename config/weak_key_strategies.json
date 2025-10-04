@@ -1,0 +1,28 @@
+{
+  "tiny_keys": {
+    "ranges": [[1, 500000]],
+    "priority": 10,
+    "description": "Very small keys"
+  },
+  "prime_numbers": {
+    "ranges": [[2, 500000]],
+    "priority": 9,
+    "description": "Seed range for primes (sampling uniform here)"
+  },
+  "high_range_keys": {
+    "ranges": [
+      [115792089237316195423570985008687907852837564279074904382605163141518160994337,
+       115792089237316195423570985008687907852837564279074904382605163141518161494336]
+    ],
+    "priority": 7,
+    "description": "High-end curve range"
+  },
+  "patterned_keys": {
+    "ranges": [
+      [340282366920938463463374607431768211456,
+       340282366920938463463374607431768711456]
+    ],
+    "priority": 8,
+    "description": "Pattern-like sample"
+  }
+}

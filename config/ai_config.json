@@ -1,0 +1,10 @@
+{
+  "params": {
+    "ucb_c": 1.2,
+    "reward_hit": 1.0,
+    "reward_near": 0.05,
+    "reward_empty": 0.0,
+    "mix_random_ratio": 0.5
+  },
+  "stats": {}
+}

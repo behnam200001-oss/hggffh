@@ -1,0 +1,14 @@
+{
+  "common_ranges": [
+    {
+      "name": "Small keys",
+      "start": "1",
+      "end": "1000000"
+    },
+    {
+      "name": "Prime numbers range",
+      "start": "1000000",
+      "end": "2000000"
+    }
+  ]
+}
